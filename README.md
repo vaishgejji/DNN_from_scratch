@@ -1,1 +1,2 @@
-# DNN_from_scratch
+# Image classification using a Deep Neural Network developed from scratch
+
